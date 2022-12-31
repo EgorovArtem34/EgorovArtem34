@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Artem Egorov 👋
 
+I’m currently learning JavaScript
 <!--
 **EgorovArtem34/EgorovArtem34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
