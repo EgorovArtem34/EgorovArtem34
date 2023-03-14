@@ -1,4 +1,4 @@
-### Hi, I'm Artem Egorov 👋
+### Hi 👋
 
 I’m looking for a job
 <!--
