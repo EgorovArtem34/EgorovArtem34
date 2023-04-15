@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I’m Artem Egorov and i'm frontend developer. Looking for a job.
+I’m Artem Egorov and i'm frontend developer. Looking for a job and ready to relocate
 
 
 Email: artegtor@gmail.com
