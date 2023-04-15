@@ -1,7 +1,10 @@
 ### Hi 👋
 
 I’m Artem Egorov and i'm frontend developer. Looking for a job.
+
+
 Email: artegtor@gmail.com
+
 Telegram : @artegtor
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
